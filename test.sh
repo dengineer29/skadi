@@ -1,2 +1,2 @@
-echo -e "\n\tHello, World!"
+echo -e "\n\tHello, Skadi!"
 
